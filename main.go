@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/hashicorp/terraform/plugin"
-	"github.com/squat/terraform-provider-vultr/vultr"
+	"github.com/chris-tn/terraform-provider-vultr/vultr"
 )
 
 func main() {
